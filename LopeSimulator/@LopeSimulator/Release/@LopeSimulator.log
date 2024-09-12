@@ -1,0 +1,17 @@
+﻿  Lope.cpp
+D:\@New Study\@OpenGL\@LopeSimulator\@LopeSimulator\Particle.h(42,14): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Lope.cpp'을(를) 컴파일하는 중)
+  
+D:\@New Study\@OpenGL\@LopeSimulator\@LopeSimulator\Lope.cpp(9,50): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\@New Study\@OpenGL\@LopeSimulator\@LopeSimulator\Lope.cpp(9,30): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\@New Study\@OpenGL\@LopeSimulator\@LopeSimulator\Lope.cpp(29,30): warning C4305: '인수': 'double'에서 'const float'(으)로 잘립니다.
+D:\@New Study\@OpenGL\@LopeSimulator\@LopeSimulator\Lope.cpp(30,30): warning C4305: '인수': 'double'에서 'const float'(으)로 잘립니다.
+D:\@New Study\@OpenGL\@LopeSimulator\@LopeSimulator\Lope.cpp(43,30): warning C4305: '인수': 'double'에서 'const float'(으)로 잘립니다.
+D:\@New Study\@OpenGL\@LopeSimulator\@LopeSimulator\Lope.cpp(44,30): warning C4305: '인수': 'double'에서 'const float'(으)로 잘립니다.
+D:\@New Study\@OpenGL\@LopeSimulator\@LopeSimulator\Lope.cpp(76,15): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다.
+  4 of 104 functions ( 3.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    4 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  @LopeSimulator.vcxproj -> D:\@New Study\@OpenGL\@LopeSimulator\Release\@LopeSimulator.exe
