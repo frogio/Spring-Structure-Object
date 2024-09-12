@@ -22,7 +22,7 @@ v = unit vector </br>
 ## 3. Cloth Object
 
 입자들을 스프링으로 2차원상에서 연결시킨 오브젝트 </br>
-입자 하나당 천 구조를 이루는 Structure Spring,  </br
+입자 하나당 천 구조를 이루는 Structure Spring,  </br>
 천의 변형을 방지하는 Shear Spring, </br>
 마지막으로 접힘을 방지하는 Bending Spring </br>
 을 연결하여 구성하였다. </br>
